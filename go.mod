@@ -1,4 +1,4 @@
-module github.com/chuckha/kepview
+module github.com/chuckha/kepval
 
 go 1.12
 

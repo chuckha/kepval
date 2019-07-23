@@ -20,7 +20,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/chuckha/kepview/keps"
+	"github.com/chuckha/kepval/keps"
 )
 
 func TestValidParsing(t *testing.T) {

@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/chuckha/kepview/keps"
+	"github.com/chuckha/kepval/keps"
 )
 
 func main() {

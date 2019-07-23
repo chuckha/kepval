@@ -22,7 +22,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/chuckha/kepview/keps/validations"
+	"github.com/chuckha/kepval/keps/validations"
 	"github.com/pkg/errors"
 	"gopkg.in/yaml.v2"
 )
