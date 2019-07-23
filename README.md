@@ -1,6 +1,4 @@
-# KEP tools
-
-## kepval
+# kepval
 
 `kepval` is a tool that checks the YAML metadata in a KEP (Kubernetes
 Enhancement Proposal) is valid.
